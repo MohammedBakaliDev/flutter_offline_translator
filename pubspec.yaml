@@ -1,9 +1,9 @@
 name: flutter_offline_translator
 description: "A Flutter plugin for offline language translation using ML Kit on iOS and Android. Supports multiple languages and provides easy-to-use API for seamless integration."
 version: 0.0.1
-homepage: https://github.com/yourusername/flutter_offline_translator
-repository: https://github.com/yourusername/flutter_offline_translator
-issue_tracker: https://github.com/yourusername/flutter_offline_translator/issues
+homepage: https://github.com/MohammedBakaliDev/flutter_offline_translator
+repository: https://github.com/MohammedBakaliDev/flutter_offline_translator
+issue_tracker: https://github.com/MohammedBakaliDev/flutter_offline_translator/issues
 
 environment:
   sdk: '>=3.4.4 <4.0.0'

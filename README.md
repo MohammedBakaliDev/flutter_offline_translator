@@ -132,7 +132,7 @@ And many more! Use `getAvailableLanguages()` for a complete list.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/offline_translator/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/MohammedBakaliDev/flutter_offline_translator/issues).
 
 ## 📄 License
 
