@@ -68,7 +68,7 @@ PODS:
   - nanopb/encode (2.30910.0)
   - PromisesObjC (2.4.0)
   - Protobuf (3.28.2)
-  - SSZipArchive (2.4.3)
+  - SSZipArchive (2.6.0)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
@@ -101,7 +101,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  flutter_offline_translator: 7a518619f16b24903493bc0f1affd28c0ebc1ebd
+  flutter_offline_translator: 029c09ee2c53f7fa6900055c24d7f53b48ec4baa
   GoogleDataTransport: 6c09b596d841063d76d4288cc2d2f42cc36e1e2a
   GoogleMLKit: 0017a6a8372e1a182139b9def4d89be5d87ca5a7
   GoogleToolboxForMac: 8bef7c7c5cf7291c687cf5354f39f9db6399ad34
@@ -115,8 +115,8 @@ SPEC CHECKSUMS:
   nanopb: 438bc412db1928dac798aa6fd75726007be04262
   PromisesObjC: f5707f49cb48b9636751c5b2e7d227e43fba9f47
   Protobuf: 28c89b24435762f60244e691544ed80f50d82701
-  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  SSZipArchive: 8a6ee5677c8e304bebc109e39cf0da91ccef22ea
 
-PODFILE CHECKSUM: 1959d098c91d8a792531a723c4a9d7e9f6a01e38
+PODFILE CHECKSUM: f2095d9946016fd9e5adc1075579dbb37c2bbacc
 
 COCOAPODS: 1.15.2

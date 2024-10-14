@@ -52,7 +52,8 @@ android {
     dependencies {
         testImplementation("org.jetbrains.kotlin:kotlin-test")
         testImplementation("org.mockito:mockito-core:5.0.0")
-        implementation 'com.google.mlkit:translate:17.0.1'
+        implementation 'com.google.mlkit:translate:17.0.3'
+        implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4"
     }
 
     testOptions {
